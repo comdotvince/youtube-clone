@@ -2,19 +2,6 @@
 
 A responsive YouTube homepage clone built with HTML and CSS, featuring a modern layout with header navigation, sidebar, and video grid.
 
-## 📋 Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [Project Structure](#project-structure)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Responsive Design](#responsive-design)
-- [Technologies Used](#technologies-used)
-- [File Structure](#file-structure)
-- [Contributing](#contributing)
-- [Acknowledgments](#acknowledgments)
-
 ## 🎯 Overview
 
 This project is a pixel-perfect recreation of YouTube's homepage interface, built as a follow-along project from [supersimple.dev](https://supersimple.dev/exercises/youtube). It demonstrates modern CSS techniques including CSS Grid, Flexbox, and responsive design principles.

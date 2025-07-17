@@ -143,7 +143,7 @@ Key responsive features:
 
 ## 📝 Acknowledgments
 
-- **supersimple.dev** - Original tutorial and project guidance
+- [**supersimple.dev**](https://supersimple.dev/) - Original tutorial and project guidance
 
 ---
 
